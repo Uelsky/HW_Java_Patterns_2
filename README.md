@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «2.3. Patterns»
+# Домашнее задание к занятию «2.3. Patterns»    [![Build status](https://ci.appveyor.com/api/projects/status/381eto00r9a9k71e?svg=true)](https://ci.appveyor.com/project/Uelsky/hw-java-patterns-2)
 
 ## Задача №2: тестовый режим
 
