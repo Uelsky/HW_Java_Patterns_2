@@ -74,6 +74,6 @@ class AuthTest {
         $("[data-test-id=password] input").setValue(wrongPassword);
         $$("button").find(exactText("Продолжить")).click();
         $(byText("Ошибка")).shouldBe(visible, Duration.ofSeconds(10));
-        $(withText("Неверно указан логин или парольl")).shouldBe(visible, Duration.ofSeconds(10));
+        $(withText("Неверно указан логин или пароль")).shouldBe(visible, Duration.ofSeconds(10));
     }
 }
